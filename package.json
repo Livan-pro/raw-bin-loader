@@ -1,0 +1,10 @@
+{
+  "name": "raw-bin-loader",
+  "version": "1.0.0",
+  "description": "Raw binary loader for webpack",
+  "main": "index.js",
+  "author": "xLivan",
+  "license": "MIT",
+  "bundleDependencies": false,
+  "deprecated": false
+}
